@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+
+#container {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  margin: 25px auto;
+}
+
+#win {
+  color: green;
+}
+
+#loss {
+  color: red;
+}
+
+#tie {
+  color: blue;
+}
